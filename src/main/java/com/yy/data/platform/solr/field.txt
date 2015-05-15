@@ -1,0 +1,5 @@
+id:为hbase中webpage_new表中的rowKey
+content:为nutch爬取的内容
+url:为网页的url
+title:为文章标题
+解析完的数据需要拿着id去webpage_new中获取
